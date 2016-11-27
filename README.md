@@ -38,8 +38,14 @@ The project was conceived as a serious practical work for the excercise of the p
  - Polymorphism and its types.
  - Object-Oriented Design and UML class diagrams.
 
-## Application architecture and layers
-- The project is presented as a set of three layers - Presentation Layer, Business Logic and Data Layer.
+## Architecture and layers
+The project is presented as a set of three layers:
+* Presentation Layer.
+* Business Logic.
+* Data Layer.
+Common architecture structure - xxx
+
+## Application key points
 - The root of the application is the Application class which encapsulates one Wrapper of each layer.
 - Each layer is isolated from each other and only knows about the "bridge" from the layer below.
 - The Data Layer is represented by a simple Accessor and text dictionary file in the operating system.
@@ -50,4 +56,4 @@ The project was conceived as a serious practical work for the excercise of the p
 - Each screen is represented by an independent content, as well as custom action and trnsitions to other screens.
 
 ##  The build process
- The assembly process is simple - just open the file Translator.vcxproj by VisualStudio with support for standard C++ 11 and compile it.
+The assembly process is simple - just open the file Translator.vcxproj by VisualStudio with support for standard C++ 11 and compile it.
