@@ -43,7 +43,8 @@ The project is presented as a set of three layers:
 * Presentation Layer.
 * Business Logic.
 * Data Layer.
-Common architecture structure - xxx
+Common architecture structure
+[!(https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
 ## Application key points
 - The root of the application is the Application class which encapsulates one Wrapper of each layer.
