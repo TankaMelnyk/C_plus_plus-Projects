@@ -48,6 +48,6 @@ The project was conceived as a serious practical work for the excercise of the p
 - UI layer is presented in the form of State Machine which switches the pre-prepared screens.
 - The screens and transitions between them are described in the factory-methods of UI factory.
 - Each screen is represented by an independent content, as well as custom action and trnsitions to other screens.
- 
+
 #  The build process
  The assembly process is simple - just open the file Translator.vcxproj by VisualStudio with support for standard C++ 11 and compile it.
