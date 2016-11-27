@@ -5,32 +5,32 @@ This course work on the courses:
 - C++ and STL library,
 - Fundamentals of Object-Oriented Programming
 
-# The basic idea and motivationffd
+# The basic idea and motivation
 
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
- Procedural programming
+1. Procedural programming
  - IO base operations
-  - variables
+ - variables
  - conditional constructions
  - cycles
  - arrays
  - function
  
- Structured programming
+2. Structured programming
  - pointers arithmetic
  - the structures
  - complex chain of functions calls
  - Exceptions and their handling
  - File Input-Output
  
- Standard tempates library - STL
+3. Standard tempates library - STL
  - String class and working algorithms with it
  - Vector as a dynamic array
  - Associative containers - Map and Set
  - Base algorithms for work with containers
  
- The Object-Oriented Programming and the Object-Oriented Design
+4. The Object-Oriented Programming and the Object-Oriented Design
  - Base OOP concepts
  - Data abstraction
  - Encapsulation
