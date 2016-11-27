@@ -10,7 +10,6 @@ This course work on the courses:
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
 #### 1. Procedural programming
-   
  * Variables. 
  * Conditional constructions. 
  * Cycles. 
@@ -19,7 +18,6 @@ The project was conceived as a serious practical work for the excercise of the p
  * IO base operations.
  
 #### 2. Structured programming
- 
  - The structures.
  - Complex chain of functions calls.
  - Pointers arithmetic.
