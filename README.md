@@ -1,9 +1,9 @@
 # Translator 15.01.2016
 
 This course work on the courses:
-- Basic programming,
-- C++ and STL library,
-- Fundamentals of Object-Oriented Programming
+- Basic programming.
+- C++ and STL library.
+- Fundamentals of Object-Oriented Programming.
 
 ## The basic idea and motivation
 
@@ -42,9 +42,9 @@ The project was conceived as a serious practical work for the excercise of the p
 [Common architecture structure.](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/Classes_diag.png)
 
 The project is presented as a set of three layers:
-* ["Presentation Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/ui_layer.png)
-* ["Business Logic"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/bl_layer.png)
-* ["Data Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/dl_layer.png)
+* [Presentation Layer.](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/ui_layer.png)
+* [Business Logic.](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/bl_layer.png)
+* [Data Layer.](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/dl_layer.png)
 
 ## Application key points
 - The root of the application is the Application class which encapsulates one Wrapper of each layer.
@@ -57,4 +57,4 @@ The project is presented as a set of three layers:
 - Each screen is represented by an independent content, as well as custom action and trnsitions to other screens.
 
 ##  The build process
-The assembly process is simple - just open the file Translator.vcxproj by VisualStudio with support for standard C++ 11 and compile it.
+The assembly process is simple - just open the file **Translator.vcxproj** by VisualStudio with support for standard C++11 and compile it.
