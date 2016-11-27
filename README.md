@@ -8,25 +8,25 @@ This course work on the courses:
 # The basic idea and motivationffd
 
 The project was conceived as a serious practical work for the excercise of the previous topics.
-Procedural programming
+ Procedural programming
  - IO base operations
   - variables
  - conditional constructions
  - cycles
  - arrays
  - function
-Structured programming
+ Structured programming
  - pointers arithmetic
  - the structures
  - complex chain of functions calls
  - Exceptions and their handling
  - File Input-Output
-Standard tempates library - STL
+ Standard tempates library - STL
  - String class and working algorithms with it
  - Vector as a dynamic array
  - Associative containers - Map and Set
  - Base algorithms for work with containers
-The Object-Oriented Programming and the Object-Oriented Design
+ The Object-Oriented Programming and the Object-Oriented Design
  - Base OOP concepts
  - Data abstraction
  - Encapsulation
