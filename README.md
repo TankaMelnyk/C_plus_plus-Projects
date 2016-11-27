@@ -10,17 +10,17 @@ This course work on the courses:
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
 1. Procedural programming: 
- - IO base operations
- - variables
+ - variables
  - conditional constructions
  - cycles
  - arrays
  - function
+ - IO base operations
  
 2. Structured programming: 
- - pointers arithmetic
- - the structures
+ - the structures
  - complex chain of functions calls
+ - pointers arithmetic
  - Exceptions and their handling
  - File Input-Output
  
