@@ -43,6 +43,7 @@ The project is presented as a set of three layers:
 * ["Presentation Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/ui_layer.png)
 * ["Business Logic"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/bl_layer.png)
 * ["Data Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/dl_layer.png)
+
 ["Common architecture structure"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/Classes_diag.png)
 
 ## Application key points
