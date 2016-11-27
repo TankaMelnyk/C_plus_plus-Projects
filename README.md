@@ -40,11 +40,10 @@ The project was conceived as a serious practical work for the excercise of the p
 
 ## Architecture and layers
 The project is presented as a set of three layers:
-* Presentation Layer.
-* Business Logic.
-* Data Layer.
-Common architecture structure
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+* ["Presentation Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/ui_layer.png)
+* ["Business Logic"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/bl_layer.png)
+* ["Data Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/dl_layer.png)
+["Common architecture structure"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/Classes_diag.png)
 
 ## Application key points
 - The root of the application is the Application class which encapsulates one Wrapper of each layer.
