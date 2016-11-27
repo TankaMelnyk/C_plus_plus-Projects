@@ -7,19 +7,19 @@ This course work on the courses:
 
 ## The basic idea and motivation
 
-The project was conceived as a serious practical work for the excercise of the previous topics.
+The project was conceived as a serious practical work for the excercises of the previous topics.
 
 #### 1. Procedural programming
  * Variables. 
  * Conditional constructions. 
  * Cycles. 
  * Arrays. 
- * Function. 
+ * Functions. 
  * IO base operations.
  
 #### 2. Structured programming
  - The structures.
- - Complex chain of functions calls.
+ - Complex chains of functions calls.
  - Pointers arithmetic.
  - Exceptions and their handling.
  - File Input-Output.
@@ -34,7 +34,7 @@ The project was conceived as a serious practical work for the excercise of the p
  - Base OOP concepts.
  - Data abstraction.
  - Encapsulation.
- - Inheritance and composition as his alternative.
+ - Inheritance and composition as alternative.
  - Polymorphism and its types.
  - Object-Oriented Design and UML class diagrams.
 
@@ -50,11 +50,11 @@ The project is presented as a set of three layers:
 - The root of the application is the Application class which encapsulates one Wrapper of each layer.
 - Each layer is isolated from each other and only knows about the "bridge" from the layer below.
 - The Data Layer is represented by a simple Accessor and text dictionary file in the operating system.
-- The BL layer contains the basic algorithms for translating words and sentences, they adding, as well as view and change the dictionary and settings.
+- The BL layer contains the basic algorithms for translating words and sentences, they adding, view and change the dictionary and settings.
 - Facade in BL layer is presented by TranslationManager.
 - UI layer is presented in the form of State Machine which switches the pre-prepared screens.
 - The screens and transitions between them are described in the factory-methods of UI factory.
-- Each screen is represented by an independent content, as well as custom action and trnsitions to other screens.
+- Each screen is represented by an independent content, custom actions and transitions to other screens.
 
 ##  The build process
 The assembly process is simple - just open the file **Translator.vcxproj** by VisualStudio with support for standard C++11 and compile it.
