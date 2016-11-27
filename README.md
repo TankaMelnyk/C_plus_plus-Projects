@@ -5,35 +5,34 @@ This course work on the courses:
 - C++ and STL library,
 - Fundamentals of Object-Oriented Programming
 
-# The basic idea and motivation
+# The basic idea and motivationffd
 
 The project was conceived as a serious practical work for the excercise of the previous studies.
 1) Procedural programming
- a) IO bases
- b) variables
- c) conditional constructions
- g) Cycles
- d) arrays
- e) function
- 2) Structured programming
- a) pointer arithmetic
- a) the structure
- b) complex chaining functions
- *) Exceptions and their handling
- *) Files of input-output
- 3) Standard bibioteka STL templates
- *) String class and algorithms working with him
- *) Vector, a dynamic array
- *) Map and set
- *) Based on the algorithm to work with containers
- 4) the PLO and the DTE
- *) Osnovyne OOP concepts
- *) Data abstraction
- *) Encapsulation
- *) Inheritance and composition as his alternative
- *) Polymorphism and its types
- *) OO design and UML class diagrams
-  
+ - IO base operations
+ - variables
+ - conditional constructions
+ - cycles
+ - arrays
+ - function
+2) Structured programming
+ - pointers arithmetic
+ - the structures
+ - complex chain of functions calls
+ - Exceptions and their handling
+ - File Input-Output
+3) Standard tempates library - STL
+ - String class and working algorithms with it
+ - Vector as a dynamic array
+ - Associative containers - Map and Set
+ - Base algorithms for work with containers
+4) The Object-Oriented Programming and the Object-Oriented Design
+ - Base OOP concepts
+ - Data abstraction
+ - Encapsulation
+ - Inheritance and composition as his alternative
+ - Polymorphism and its types
+ - Object-Oriented Design and UML class diagrams  
 
 Application architecture and layering
  *) The project is presented as a set of three layers - Presentation Layer, Busines Logic, Data Layer
