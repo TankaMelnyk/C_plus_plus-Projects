@@ -5,17 +5,17 @@ This course work on the courses:
 - C++ and STL library,
 - Fundamentals of Object-Oriented Programming
 
-# The basic idea and motivation
+## The basic idea and motivation
 
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
-1 Procedural programming
- - Variables.
- - Conditional constructions.
- - Cycles.
- - Arrays.
- - Function.
- - IO base operations.
+### 1. Procedural programming
+ * Variables.
+ * Conditional constructions.
+ * Cycles.
+ * Arrays.
+ * Function.
+ * IO base operations.
  
 2 Structured programming
  - The structures.
@@ -38,7 +38,7 @@ The project was conceived as a serious practical work for the excercise of the p
  - Polymorphism and its types.
  - Object-Oriented Design and UML class diagrams.
 
-# Application architecture and layers
+## Application architecture and layers
 - The project is presented as a set of three layers - Presentation Layer, Business Logic and Data Layer.
 - The root of the application is the Application class which encapsulates one Wrapper of each layer.
 - Each layer is isolated from each other and only knows about the "bridge" from the layer below.
@@ -49,5 +49,5 @@ The project was conceived as a serious practical work for the excercise of the p
 - The screens and transitions between them are described in the factory-methods of UI factory.
 - Each screen is represented by an independent content, as well as custom action and trnsitions to other screens.
 
-#  The build process
+##  The build process
  The assembly process is simple - just open the file Translator.vcxproj by VisualStudio with support for standard C++ 11 and compile it.
