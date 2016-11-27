@@ -10,7 +10,6 @@ This course work on the courses:
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
 1. Procedural programming: 
-
  - IO base operations
  - variables
  - conditional constructions
@@ -19,7 +18,6 @@ The project was conceived as a serious practical work for the excercise of the p
  - function
  
 2. Structured programming: 
-
  - pointers arithmetic
  - the structures
  - complex chain of functions calls
@@ -27,14 +25,12 @@ The project was conceived as a serious practical work for the excercise of the p
  - File Input-Output
  
 3. Standard tempates library - STL:
-
  - String class and working algorithms with it
  - Vector as a dynamic array
  - Associative containers - Map and Set
  - Base algorithms for work with containers
  
 4. The Object-Oriented Programming and the Object-Oriented Design:
-
  - Base OOP concepts
  - Data abstraction
  - Encapsulation
