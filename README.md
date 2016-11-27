@@ -10,7 +10,12 @@ This course work on the courses:
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
 ### 1. Procedural programming
- * Variables. * Conditional constructions. * Cycles. * Arrays. * Function. * IO base operations.
+ * Variables. 
+ * Conditional constructions. 
+ * Cycles. 
+ * Arrays. 
+ * Function. 
+ * IO base operations.
  
 2 Structured programming
  - The structures.
