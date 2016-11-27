@@ -9,7 +9,7 @@ This course work on the courses:
 
 The project was conceived as a serious practical work for the excercise of the previous topics.
 
-1. Procedural programming:
+1. Procedural programming: 
  - IO base operations
  - variables
  - conditional constructions
@@ -17,7 +17,7 @@ The project was conceived as a serious practical work for the excercise of the p
  - arrays
  - function
  
-2. Structured programming:
+2. Structured programming: 
  - pointers arithmetic
  - the structures
  - complex chain of functions calls
