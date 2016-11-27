@@ -40,7 +40,7 @@ The project was conceived as a serious practical work for the excercise of the p
 
 ## Architecture and layers
 ["Common architecture structure"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/Classes_diag.png)
-The project is presented as a set of three layers:
+ The project is presented as a set of three layers:
 * ["Presentation Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/ui_layer.png)
 * ["Business Logic"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/bl_layer.png)
 * ["Data Layer"](https://github.com/TankaMelnyk/C_plus_plus_Translator_Course_Work/blob/master/dl_layer.png)
